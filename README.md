@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://lottie.host/?file=4adcbc04-8d0a-4b8f-9d24-c271d83f3fbb/O3LGoVXpwH.json"></iframe><div align="center">
+<div align="center">
   <img height="150" src="https://lottie.host/4adcbc04-8d0a-4b8f-9d24-c271d83f3fbb/O3LGoVXpwH.json"  />
 </div>
 
