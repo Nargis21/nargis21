@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)"  />
-</div>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/4adcbc04-8d0a-4b8f-9d24-c271d83f3fbb/O3LGoVXpwH.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
