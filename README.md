@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <div align="center">
-  <img height="150" src="[https://lottie.host/4adcbc04-8d0a-4b8f-9d24-c271d83f3fbb/O3LGoVXpwH.json](https://lottie.host/?file=4adcbc04-8d0a-4b8f-9d24-c271d83f3fbb/O3LGoVXpwH.json)"  />
+  <img src="https://tenor.com/view/hello-world-beanie-the-jelly-bean-blippi-wonders-educational-cartoons-for-kids-greetings-hows-everyone-gif-7750358728208914424" />
 </div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
