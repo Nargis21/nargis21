@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-![Hello World GIF](https://tenor.com/view/hello-world-beanie-the-jelly-bean-blippi-wonders-educational-cartoons-for-kids-greetings-hows-everyone-gif-7750358728208914424)
+<div align="center">
+  <lottie-player
+    src="https://lottie.host/4adcbc04-8d0a-4b8f-9d24-c271d83f3fbb/O3LGoVXpwH.json"
+    background="transparent"
+    speed="1"
+    style="width: 150px; height: 150px;"
+    loop
+    autoplay
+  ></lottie-player>
+</div>
 
 
 - 🔭 I’m currently working on ...
