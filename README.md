@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
-  <img src="https://tenor.com/view/hello-world-beanie-the-jelly-bean-blippi-wonders-educational-cartoons-for-kids-greetings-hows-everyone-gif-7750358728208914424" />
-</div>
+![Hello World GIF](https://tenor.com/view/hello-world-beanie-the-jelly-bean-blippi-wonders-educational-cartoons-for-kids-greetings-hows-everyone-gif-7750358728208914424)
 
 
 - 🔭 I’m currently working on ...
