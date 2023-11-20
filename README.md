@@ -1,9 +1,4 @@
-### Hi there 👋
-
-  <img src="https://media.licdn.com/dms/image/D5616AQHKLph_a5J66w/profile-displaybackgroundimage-shrink_350_1400/0/1698597557794?e=1706140800&v=beta&t=JRgPcTJ8UM9A7OIKx4JmRpdIq07MyUmxk9gI6ysOYTg"  />
-
-
-
+### Hi there 👋 Myself Nargis Akther 😎
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
