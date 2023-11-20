@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif"  />
+  <img height="150" src="https://media.licdn.com/dms/image/D5616AQHKLph_a5J66w/profile-displaybackgroundimage-shrink_350_1400/0/1698597557794?e=1706140800&v=beta&t=JRgPcTJ8UM9A7OIKx4JmRpdIq07MyUmxk9gI6ysOYTg"  />
 </div>
 
 
