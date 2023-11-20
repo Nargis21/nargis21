@@ -19,14 +19,14 @@
 <br />
 
 <div align="center">
-<a href="https://www.linkedin.com/in/nargis-akther-dev/" target="_blank">
-    <img src="./images/linkedin.png" height="25" alt="linkedin logo"  />
-  </a> &nbsp;
-  <a href="https://cheerful-kataifi-de64ca.netlify.app/" target="_blank">
-    <img src="./images/portfolio.png" height="25" alt="portfolio logo"  />
-  </a> &nbsp;
+<a style="margin-right: 25px;" href="https://www.linkedin.com/in/nargis-akther-dev/" target="_blank">
+    <img src="./images/linkedin.png" height="50" alt="linkedin logo"  />
+  </a>
+  <a style="margin-right: 25px;" href="https://cheerful-kataifi-de64ca.netlify.app/" target="_blank">
+    <img src="./images/portfolio.png" height="50" alt="portfolio logo"  />
+  </a>
 <a href="https://twitter.com/nargisX21" target="_blank">
-    <img src="./images/twitter.png" height="25" alt="Twitter logo"  />
+    <img src="./images/twitter.png" height="50" alt="Twitter logo"  />
   </a>
   </div>
 
