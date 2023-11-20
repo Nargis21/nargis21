@@ -1,8 +1,8 @@
 ### Hi there 👋
-
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif"  />
 </div>
+
 
 
 
