@@ -2,15 +2,15 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m working - In Programming Hero.
+#### 🔭 I’m working - In Programming Hero.
 
-### 🌱 I’m exploring - Advance motion graphics for web.
+#### 🌱 I’m exploring - Advance motion graphics for web.
 
-### 👯 I’m looking - To collaborate on open source projects.
+#### 👯 I’m looking - To collaborate on open source projects.
 
-### 🤔 I’m trying - To help people learn web development.
+#### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+#### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
 <br />
 
@@ -32,13 +32,10 @@
 
 <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## :mailbox: Reach me out
+
+</br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nargis21&theme=highcontrast&card_width=500&border=F0FA05&stroke=F0FA05&ring=F0FA05&fire=F0FA05&sideLabels=F0FA05&currStreakLabel=F0FA05)](https://git.io/streak-stats)
+
+</br>
