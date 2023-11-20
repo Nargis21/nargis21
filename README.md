@@ -18,11 +18,11 @@
 
 <br />
 
-<div align="center">
-<a style="margin-right: 25px;" href="https://www.linkedin.com/in/nargis-akther-dev/" target="_blank">
+<div>
+<a href="https://www.linkedin.com/in/nargis-akther-dev/" target="_blank">
     <img src="./images/linkedin.png" height="50" alt="linkedin logo"  />
-  </a>
-  <a style="margin-right: 25px;" href="https://cheerful-kataifi-de64ca.netlify.app/" target="_blank">
+</a>
+  <a href="https://cheerful-kataifi-de64ca.netlify.app/" target="_blank">
     <img src="./images/portfolio.png" height="50" alt="portfolio logo"  />
   </a>
 <a href="https://twitter.com/nargisX21" target="_blank">
