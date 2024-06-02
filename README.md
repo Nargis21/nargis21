@@ -2,9 +2,9 @@
 
 ## 👀: Current overview
 
-#### 🌱 I’m learning - PostgreSQL & Prisma
+#### 🔭 I’m working - At Programming Hero.
 
-#### 🌐 I’m looking - To collaborate on open source projects.
+#### 🌱 I’m learning - PostgreSQL & Prisma
 
 #### 🎯 I’m trying - To build up my interpersonal skill.
 
