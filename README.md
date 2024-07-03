@@ -6,7 +6,7 @@
 
 #### 🌱 I’m learning - PostgreSQL & Prisma
 
-#### 🎯 I’m trying - To build up my interpersonal skill.
+#### 🎯 I’m trying - To build up my soft skills.
 
 #### 📫 How to reach me - **nargisakther1933@gmail.com**
 
